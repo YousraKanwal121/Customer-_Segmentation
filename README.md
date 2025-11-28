@@ -74,6 +74,19 @@ This project analyzes customer transactions to predict insurance deposit accepta
 Random Forest were the most effective for prediction, while K-Means clustering revealed distinct customer segments with varying deposit acceptance rates.
 
 
+---
+
+### TASK 3 Plots Preview:-
+![Preview](https://github.com/YousraKanwal121/Customer_Segmentation/blob/main/RFM1%20Graph.png)
+![Preview](https://github.com/YousraKanwal121/Customer_Segmentation/blob/main/RFM2%20Graph.png)
+![Preview](https://github.com/YousraKanwal121/Customer_Segmentation/blob/main/Elbow%20Method.png)
+![Preview](https://github.com/YousraKanwal121/Customer_Segmentation/blob/main/Customer%20Segments.png)
+
+
+---
+
+
+
 
 
 
