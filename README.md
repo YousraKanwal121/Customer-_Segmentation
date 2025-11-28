@@ -72,3 +72,25 @@ This project analyzes customer transactions to predict insurance deposit accepta
 
 ### 💡 Insight
 Random Forest were the most effective for prediction, while K-Means clustering revealed distinct customer segments with varying deposit acceptance rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
